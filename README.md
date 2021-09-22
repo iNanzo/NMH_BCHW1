@@ -1,5 +1,8 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
+https://github.com/iNanzo/NMH_BCHW1
+https://inanzo.github.io/NMH_BCHW1/
+
 ## Acceptance Criteria
 
 ```
